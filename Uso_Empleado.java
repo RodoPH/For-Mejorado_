@@ -13,6 +13,7 @@ public class Uso_Empleado {
 		misEmpleados[2] = new Empleado("Jorge", 80000, 1997, 3, 28);
 		
 	
+		//Uso de ciclo FOR MEJORADO 
 		
 		for(Empleado e:misEmpleados){
 			e.AumentaSueldo(5);
